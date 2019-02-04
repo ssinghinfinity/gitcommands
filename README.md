@@ -1,8 +1,8 @@
 Welcome to the page of git commands....
 
 Configuring a GIT - 
-git config --global user.name "Your name"
-git config --global user.email "yourname@provider.com"
+git config --global user.name "ssinghinfinity"
+git config --global user.email "surender.singh@infinitylabs.in" 
 
 
 To view all Git Configuration
